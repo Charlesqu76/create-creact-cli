@@ -7,7 +7,7 @@
     "inquirer": "^8.2.0",
     "ora": "^6.0.1"
   },
-  "name": "ww",
+  "name": "create-creact-cli",
   "version": "1.0.0",
   "main": "index.js",
   "bin": {
